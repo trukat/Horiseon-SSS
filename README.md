@@ -26,8 +26,24 @@ The list below shows the changes made from the original code.
 
 ### For CSS Code:
 
-* Consolidated "content"
+* Consolidated for "content":
+    * Search engine optimization
+    * Online reputation management
+    * Social media marketing
+    
+* Constolidated for "benefits"
+    * Benefit-lead
+    * Benefit-brand
+    * Benefit-cost
 
-* Search-engine-optimization
+* Replaced class tags for header & footer
 
-* 
+## Learnings
+
+* Learned when/how to use HTML5 Semantics
+
+* Learned how to consolidate CSS code
+
+* Learned to link within page
+
+[Link to updated website] (https://trukat.github.io/Horiseon-SSS/)
