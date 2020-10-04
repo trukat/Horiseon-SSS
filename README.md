@@ -31,7 +31,7 @@ The list below shows the changes made from the original code.
     * Online reputation management
     * Social media marketing
     
-* Constolidated for "benefits"
+* Consolidated for "benefits"
     * Benefit-lead
     * Benefit-brand
     * Benefit-cost
