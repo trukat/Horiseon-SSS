@@ -1,8 +1,8 @@
-# Horiseon code refactor
+# Horiseon code refractor
 
 ## Description
 
-The client has requested to refractor their website HTML & CSS code to follow accessibility standards and better position their search engine optimization. The finished product should look similar to the existing site, as below:
+The client requested to refractor their website HTML & CSS code to follow accessibility standards and better position their search engine optimization. The finished product should look similar to the existing site, as below:
 
 ![image](https://user-images.githubusercontent.com/70115734/95004601-ad990d00-05aa-11eb-8fd1-e87965880f40.png)
 
