@@ -46,4 +46,4 @@ The list below shows the changes made from the original code.
 
 * Learned to link within page
 
-[Link to updated website] (https://trukat.github.io/Horiseon-SSS/)
+[Link to finished website] (https://trukat.github.io/Horiseon-SSS/)
